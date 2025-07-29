@@ -3,6 +3,10 @@
 🎯 Desenvolvedor Back-end apaixonado por criar soluções escaláveis, performáticas e elegantes.  
 🌍 Atuo principalmente com **Java + Spring Boot**, mas também passeio pelo mundo do front-end e estou sempre explorando novas tecnologias.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoelias-dev&layout=compact&theme=tokyonight)
+
+
 ---
 
 ### 💼 Tecnologias que uso no dia a dia
